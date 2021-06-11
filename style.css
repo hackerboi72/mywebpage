@@ -41,3 +41,16 @@ h1 {
 .links:hover{
     background-color: burlywood;
 }
+html {
+  scroll-behavior: smooth;
+}
+.article:hover{
+  color: blue;
+}
+#Contact {
+    background-color: red;
+}
+#Contact h3 {
+    font-size: 20px;
+    font-family: "Helvetica Neue",
+}
